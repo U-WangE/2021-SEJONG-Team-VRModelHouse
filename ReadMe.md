@@ -1,11 +1,8 @@
 <div align="center">
   <h1>ModelHouse</h1>
   프로테크의 일종으로 사용자가 실제 장소를 방문하지 않고 장소의 제약 없이 특정 장소를 가상으로 체험 할 수 있는 서비스<br>
-</div>
-<center>
-> 프롭테크(Proptech) = 부동산(Property) + 기술(Technology)
-  </center>
-  
+
+  > 프롭테크(Proptech) = 부동산(Property) + 기술(Technology)
   Ex) 전자계약, AI매물 추천, 빅데이터 기반 자사 관리, 인테리어 서비스, VR 모델하우스...
 </div>
 
