@@ -1,4 +1,6 @@
-<Center><h1>ModelHouse</h1></Center>
+<div align="center">
+  <h1>ModelHouse</h1>
+<div align="center">
 <dl style="font-size:16px">
   <b style="font-size:20px">⊙Credit</b>
   <dt><b>&emsp;&emsp;- Programming Part, Presentation Part</b></dt>
@@ -15,15 +17,16 @@
 <div align="center">
   <h2 style="margin:0.2rem">Tech Stack</h2>
   <p>Techs that I've used at least once</p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white" style="display:inline-block"/>
+  <img src="https://img.shields.io/badge/Unity-white?style=flat&logo=Unity&logoColor=000000" style="display:inline-block"/>
   <img src="https://img.shields.io/badge/C%23-1d9924?style=flat&logo=CSharp&logoColor=white" style="display:inline-block"/>
 </div>
 
 ---
 
-<center><h2>Related Links</h2>
-  <a href="https://tender-pyrite-e55.notion.site/a511228a09284c339cfd626bb3ea2dc0"><img src="https://img.shields.io/badge/Notion-gray?style=flat&logo=Notion&logoColor=white&link=https://tender-pyrite-e55.notion.site/a511228a09284c339cfd626bb3ea2dc0" style="display:inline-block"/>
+<div align="center">
+  <h2>Related Links</h2>
+  <a href="https://tender-pyrite-e55.notion.site/a511228a09284c339cfd626bb3ea2dc0"><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black&link=https://tender-pyrite-e55.notion.site/a511228a09284c339cfd626bb3ea2dc0" style="display:inline-block"/>
   </a>
-  <a href="https://github.com/U-WangE/2021-SEJONG-Team-VRModelHouse"><img src="https://img.shields.io/badge/Github-gray?style=flat&logo=Github&logoColor=white&link=https://github.com/U-WangE/2021-SEJONG-Team-VRModelHouse" style="display:inline-block"/>
+  <a href="https://github.com/U-WangE/2021-SEJONG-Team-VRModelHouse"><img src="https://img.shields.io/badge/Github-white?style=flat&logo=Github&logoColor=black&link=https://github.com/U-WangE/2021-SEJONG-Team-VRModelHouse" style="display:inline-block"/>
   </a>
-</center>
+</div>
