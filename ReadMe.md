@@ -12,12 +12,12 @@
 
 ---
 
-<center>
+<div align="center">
   <h2 style="margin:0.2rem">Tech Stack</h2>
   <p>Techs that I've used at least once</p>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white" style="display:inline-block"/>
   <img src="https://img.shields.io/badge/C%23-1d9924?style=flat&logo=CSharp&logoColor=white" style="display:inline-block"/>
-</center>
+</div>
 
 ---
 
