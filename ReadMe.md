@@ -15,8 +15,8 @@
   <dt><b>&emsp;&emsp;- Design Part</b></dt>
   <dd>&emsp;&emsp;주 형진(Ju HyeongJin)</dd>
   <dt><b>&emsp;&emsp;- Data Collection Part, PPT Production Part</b></dt>
-  <dd>&emsp;&emsp;서 지상 (Seo JiSang)</dd>
-  <dd>&emsp;&emsp;이 성제 (Lee SeongJe)</dd>
+  <dd>&emsp;&emsp;서 지상 (Seo JiSang)
+    <br>&emsp;&emsp;이 성제 (Lee SeongJe)</dd>
 </dl>
 
 ---
